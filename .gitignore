@@ -1,0 +1,10 @@
+
+*.xcworkspacedata
+
+Podfile.lock
+
+SP Utilities.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+
+SP Utilities.xcworkspace/xcuserdata/swarup-pattnaik.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist
+
+Pods/*
